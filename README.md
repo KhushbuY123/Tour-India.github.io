@@ -2,4 +2,4 @@
 <img src="img1.png" width="700px" height="300px">
 
 **Live Project**
-<p>https://khushbuy123.github.io/tavelwebsite.github.io/</p>
+https://khushbuy123.github.io/Tour-India.github.io/
